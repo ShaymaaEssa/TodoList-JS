@@ -1,0 +1,44 @@
+#todoBox1{
+    width: 250px;
+    height: 35px;
+    padding: 2px
+}
+
+#todoDate{
+    width: 125px;
+    height: 35px;
+    padding: 2px;
+}
+
+#btn_add{
+    background-color: #548d54;
+    color: white;
+    width: 75px;
+    height: 40px;
+    border: transparent;
+}
+
+.btn_delete{
+    background-color: #f10f0f;
+    color: white;
+    width: 75px;
+    height: 40px;
+    border: transparent;
+}
+
+.div_task{
+
+    float: left;
+    width: 260px;
+
+}
+.div_date{
+    
+    float: left;
+    width: 138px;
+
+}
+
+.div_taskcontainer{
+    margin-top: 20px;
+}
